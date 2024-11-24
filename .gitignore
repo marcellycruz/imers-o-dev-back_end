@@ -1,0 +1,4 @@
+Ao mandar esse projeto para o nosso repositório github, os arquivos abaixo não serão enviados:
+node_modules
+chave-api.txt
+.env
